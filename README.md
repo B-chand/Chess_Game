@@ -4,9 +4,7 @@ A beginner-friendly chess game built with HTML, CSS, and vanilla JavaScript. It 
 
 ## Screenshot
 
-<div align="center">
-  <img src="./demo.png" alt="Chess Game Screenshot" width="800" />
-</div>
+![Chess Game Screenshot](./demo.png)
 
 ## Features
 
